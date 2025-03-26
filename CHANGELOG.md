@@ -1,8 +1,6 @@
 # Roo Code Changelog
 
-## 3.10.6
-
-### Patch Changes
+## [3.10.6]
 
 - Show openrouter key balance on the settings screen
 
